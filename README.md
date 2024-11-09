@@ -12,7 +12,7 @@ O Azure oferece uma inifindade de banco de dados como MySQL, PostgreSQL, SQL Dat
     2 - Em Bancos de dados SQL, deixe Tipo de recurso definido como Banco de dados individual e selecione Criar.
     3 - Na guia básica do formulário Criar Banco de Dados SQL, em Detalhes do projeto ,selecione Assinatura do Azure desejada.
     4 - Para Grupo de Recursos, selecione Criar,insira myResourceGroup e selecione OK.
-    5 - Para Nome do banco de dados, insira mySampleDatabase.
+    5 - Para Nome do banco de dados, inisira um nome para o banco de dados.
     6 - Para Servidor, selecione a opção criar e então preencha o formulário Novo servidor com os seguintes valores:
 # NOME DO SERVIDOR
 Insira o mysqlserver e adicione os caracteres para que o nome seja exclusivo.
