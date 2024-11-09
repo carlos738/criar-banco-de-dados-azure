@@ -1,7 +1,4 @@
 # criar-banco-de-dados-azure
-https://learn.microsoft.com/pt-br/azure/azure-sql/database/design-first-database-azure-data-studio?view=azuresql
-
-## https://learn.microsoft.com/pt-br/azure/azure-sql/database/single-database-create-quickstart?view=azuresql&tabs=azure-portal
 
 # 1-INTRODUÇÃO
 O Azure oferece uma inifindade de banco de dados como MySQL, PostgreSQL, SQL Database e muitos  outros.Este guis você terá uma noção de o que é e como criar uma intância de banco de dados no Microsoft Azure.
