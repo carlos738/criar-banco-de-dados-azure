@@ -63,3 +63,8 @@ Selecione OK.
    2 - Na página para o seu banco de dados, selecione Editor de consultas (versão prévia) no menu à esquerda.
 
     3 - Insira suas informações de logon do administrador do servidor da autenticação do SQL ou use a autenticação do Microsoft Entra.
+ 
+    
+ 
+# CONCLUSÃO
+    Seguindo estás etapa acima você poderá usufruir de uma instância de banco de dados Microsoft Azure.    
