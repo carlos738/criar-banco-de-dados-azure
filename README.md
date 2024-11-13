@@ -61,7 +61,9 @@ Selecione OK.
 
     3 - Insira suas informações de logon do administrador do servidor da autenticação do SQL ou use a autenticação do Microsoft Entra.
  
-    
+    UMA BREVE EXPLICAÇÃO DE QUE VOCÊ TAMBÉM PODE CRIAR OUTRAS FORMAS DE USAR INSTÂNCIAS NA AZURE ESTOU FALANDO DO USO DE CONTÂINERS:
+    Os contâiners são unidades de software leves e portáteis que empacotam código e todas as suas dependências, permitindo que as aplicações sejam executadas de forma consistente em qualquer tipo de ambiente.
+    ACI é um servico da Microsoft que oferece uma maneira rápida e fácil de executar containers na nuvem, sem a necessidade de provisionar ou gerenciar servidores virtuais.
  
 # CONCLUSÃO
     Seguindo estás etapa acima você poderá usufruir de uma instância de banco de dados Microsoft Azure.    
